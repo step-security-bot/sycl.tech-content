@@ -26,6 +26,8 @@ Your same SYCL (C++) code can now run not only on CPU but also (same code) on GP
 plugins from Codeplay®.
 ```
 
+Once you have done all the above, create a pull request to the repository.
+
 ## Notes
 
 * `contributor: anonymous` should refer to a contributor stored within the [contributors directory](../contributors)

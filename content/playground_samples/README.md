@@ -22,6 +22,8 @@ int main(int, char**) {
 }
 ```
 
+Once you have done all the above, create a pull request to the repository.
+
 ## Notes
 
 * `contributor: anonymous` should refer to a contributor stored within the [contributors directory](../contributors)
