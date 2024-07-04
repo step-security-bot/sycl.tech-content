@@ -1,5 +1,5 @@
 ---
-title: "NG Range Kernel"
+title: "ND Range Kernel"
 summary: "Learn how to enqueue ND range kernel functions."
 contributor: rod
 ---
