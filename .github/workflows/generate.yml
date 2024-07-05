@@ -36,7 +36,7 @@ jobs:
           -g "${{ secrets.GITHUB_TOKEN }}"
     - name: Copy Static
       run: |
-        cp -R html/ static feed/
+        cp -R html/. static feed/
     - name: Upload Feeds as Artifacts
       uses: actions/upload-pages-artifact@v3
       with:
