@@ -4,6 +4,7 @@ date: '	2024-07-05T14:46:00'
 starts: '2024-08-13T13:00:10-0500'
 ends: '2024-08-13T14:00:10-0500'
 title: 'Exploring SYCL for Batched Kernels with Memory Allocations'
+location: 'Virtual/Online'
 external_url: 'https://www.alcf.anl.gov/events/exploring-sycl-batched-kernels-memory-allocations'
 ---
 
