@@ -25,6 +25,13 @@ Some content describing the event here.
 
 Once you have done all the above, create a pull request to the repository.
 
+
+## Note Attendance
+
+If you are going to an event, please feel free to add yourself to the event attendee list. Create yourself a 
+[contributor profile here](../contributors/README.md), and then add your username to the `contributor:` list on the 
+event you are attending.
+
 ## Notes
 
 * `contributor: anonymous` should refer to a contributor stored within the [contributors directory](../contributors)
