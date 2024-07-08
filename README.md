@@ -1,5 +1,8 @@
 # SYCL.tech Content
 
+[![Scorecard supply-chain security](https://github.com/scottstraughan/sycl.tech-content/actions/workflows/scorecard.yml/badge.svg)](https://github.com/scottstraughan/sycl.tech-content/actions/workflows/scorecard.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/scottstraughan/sycl.tech-content/badge)](https://scorecard.dev/viewer/?uri=github.com/scottstraughan/sycl.tech-content)
+
 ## About The Project
 
 This repository contains all the content (news, videos, projects etc.) that is shown on [sycl.tech](https://sycl.tech).
